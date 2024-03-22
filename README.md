@@ -1,26 +1,28 @@
 # tutorial-gmail
 
-:large_blue_circle: **Cancelar Envio:** Período de cancelamento de envio: 30 segundos.
+:white_circle: Cancelar Envio: Período de cancelamento de envio: 30 segundos.
 
-:white_circle: **Comportamento de Resposta Padrão**: Responder.
+:white_circle: Comportamento de Resposta Padrão: Responder.
 
-:white_circle: **Enviar e Arquivar:** Mostrar o botão "Enviar e arquivar" na resposta.
+:white_circle: Enviar e Arquivar: Mostrar o botão "Enviar e arquivar" na resposta.
 
-:red_circle: **Imagens:** Perguntar antes de exibir imagens externas.
+:sos: Imagens: Perguntar antes de exibir imagens externas.
 
-:white_circle: **Gramática:** Desativar as sugestões de gramática.
+:white_circle: Gramática: Desativar as sugestões de gramática.
 
-:white_circle: **Ortografia:** Desativar as sugestões de ortografia.
+:white_circle: Ortografia: Desativar as sugestões de ortografia.
 
-:yellow_circle: **Correção Automática:** Correção automática desativada.
+:yellow_circle: Correção Automática: Correção automática desativada.
 
-:red_circle: **Escrita inteligente:** Desativar as sugestões de escrita.
+:red_circle: Escrita inteligente: Desativar as sugestões de escrita.
+
+:sos: Personalização da Escrita inteligente: desativado.
 
 :red_circle: Sugerir e-mails para responder: desativado.
 
 :red_circle: Sugerir e-mails para acompanhar: desativado.
 
-:red_circle: **Resposta Inteligente**: Resposta inteligente desabilitada.
+:red_circle: Resposta Inteligente: Resposta inteligente desabilitada.
 
 :red_circle: Recursos inteligentes e personalização: desativado.
 
